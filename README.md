@@ -1,4 +1,4 @@
-# 🚗 DriveEase — Premium Car Rental Client Application
+# DriveEase — Premium Car Rental Client Application
 
 DriveEase is a modern, visually stunning, and highly responsive **Car Rental Web Application** designed to provide users with a seamless vehicle booking experience. Built using state-of-the-art frontend technologies, the platform features a sleek consumer-facing website and a comprehensive admin panel for car owners.
 
